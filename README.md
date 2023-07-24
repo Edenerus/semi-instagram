@@ -20,6 +20,6 @@ ___
 
 1) Клонируйте репозиторий
 `git clone https://github.com/Edenerus/semi-instagram`.
-2) Установите зависимости командой `pip install requirements.txt`
+2) Установите зависимости командой `pip install -r requirements.txt`
 3) Войдите в виртуальное окружение(если не вошло автоматически) `venv/Scripts/activate`
 4) Запустите приложение Flask `flask run`
